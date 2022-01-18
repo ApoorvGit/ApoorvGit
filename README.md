@@ -9,6 +9,9 @@
 <a href="https://twitter.com/AforApoorv"><img height="50" src="https://raw.githubusercontent.com/ApoorvGit/ApoorvGit/main/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/apoorv-mishra-7b9b77192/"><img height="50" src="https://raw.githubusercontent.com/ApoorvGit/ApoorvGit/main/linkedin.png"></a>
 </p>
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=ApoorvGit&label=Profile%20views&color=0e75b6&style=flat" alt="ApoorvGit" />
+</p>
 
 Hey there 👋,
 
