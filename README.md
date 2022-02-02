@@ -1,4 +1,4 @@
-# ![ApoorvGit header](https://raw.githubusercontent.com/ApoorvGit/ApoorvGit/0c0ef0b287fe26fb1e1c644fe39097eceeffd7e1/wall.jpeg)
+# ![ApoorvGit header](https://raw.githubusercontent.com/ApoorvGit/ApoorvGit/main/wall.png)
 
 <p align='center'>
 <img width="20%" src="https://raw.githubusercontent.com/ApoorvGit/ApoorvGit/main/emoji.jpeg">
