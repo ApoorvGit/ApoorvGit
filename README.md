@@ -30,3 +30,5 @@ My name is Apoorv Mishra and I am a Computer Engineering Student at TIET, Patial
   <img width = "45%" src = "https://github-readme-streak-stats.herokuapp.com/?user=ApoorvGit&theme=dark&hide_border=true">
   
 </p>
+Resume: 
+https://drive.google.com/file/d/1CsRcznGRRrmCS41WCU9QoAvxP4mvlavL/view?usp=drivesdk
